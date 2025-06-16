@@ -20,7 +20,7 @@ This project focuses on analyzing crime data related to **women** and **children
 
 - **State-wise comparison** using bar charts and heat maps
 - **Year-over-year analysis** using line and area graphs
-- **Pie charts** for distribution of crime types (if available)
+- **Pie charts** for distribution of crime types 
 - **Dynamic filters** for interactive exploration (Tableau dashboards)
 
 ## Insights Derived
