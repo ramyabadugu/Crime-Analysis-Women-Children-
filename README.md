@@ -4,7 +4,7 @@
 
 This project focuses on analyzing crime data related to **women** and **children** across various Indian states and Union Territories from **2019 to 2021**. Using **Excel** for data preprocessing and **Tableau** for visualizations, the goal is to uncover trends, identify high-risk regions, and support informed public awareness through visual storytelling.
 
-## 🛠Tools Used
+## Tools Used
 
 - **Tableau** – Interactive dashboards & visual storytelling
 - **Microsoft Excel** – Data cleaning, transformation, and summary calculations
